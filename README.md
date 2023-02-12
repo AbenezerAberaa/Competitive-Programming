@@ -1,1 +1,1 @@
-# A2SV Compititive Programming Projects(AAU)
+#  Compititive Programming(LeetCode, HackerRank, and CodeForces) Solution
