@@ -1,7 +1,0 @@
-class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        array = []
-        for value in nums1:
-            if(value in nums2 and value not in array):
-                array.append(value)
-        return array
